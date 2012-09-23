@@ -14,5 +14,4 @@ public class Test {
 	static void println(String message) {
 		System.out.println(message);
 	}
-
 }
